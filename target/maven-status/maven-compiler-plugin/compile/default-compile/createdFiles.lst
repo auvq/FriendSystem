@@ -1,0 +1,8 @@
+me\auvq\friendsystem\utils\CC.class
+me\auvq\friendsystem\utils\MsgUtil.class
+me\auvq\friendsystem\utils\Constants$Database.class
+me\auvq\friendsystem\commands\Command.class
+me\auvq\friendsystem\handlers\PlayerHandler.class
+me\auvq\friendsystem\Main.class
+me\auvq\friendsystem\utils\Constants.class
+me\auvq\friendsystem\utils\ItemBuilder.class

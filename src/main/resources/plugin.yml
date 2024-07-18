@@ -1,0 +1,4 @@
+name: FriendSystem
+version: '${project.version}'
+main: me.auvq.friendsystem.Main
+api-version: '1.20'

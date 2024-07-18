@@ -1,0 +1,4 @@
+database:
+  uri: "mongodb://mongoadmin:6c4gy64H0A3a@185.150.191.241:27017/?authSource=admin"
+  db: "friendsystem"
+  collection: "users"
